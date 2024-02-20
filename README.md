@@ -1,4 +1,4 @@
-![kapak]([C:\Users\ahmet\OneDrive\Documents\Duygu-Analiz\kapak.png](https://github.com/cwahmet06/Yapay-Zeka-ile-Duygu-Durum-Analizi/blob/main/kapak.png?raw=true))
+![kapak] [C:\Users\ahmet\OneDrive\Documents\Duygu-Analiz\kapak.png](https://github.com/cwahmet06/Yapay-Zeka-ile-Duygu-Durum-Analizi/blob/main/kapak.png?raw=true)
 
 ## MAKİNE ÖĞRENMESİ İLE DUYGU DURUM ANALİZİ
 
