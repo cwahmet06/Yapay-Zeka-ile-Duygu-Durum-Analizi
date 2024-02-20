@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="arkaplan">
+    <file>40op.png</file>
+    <file>suLOGO.jpg</file>
+    <file>60op.png</file>
+  </qresource>
+</RCC>
