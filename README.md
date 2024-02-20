@@ -88,5 +88,5 @@ pip install -r requirements.txt
 - https://github.com/Ozdg
 
 ```
-DATA DOSYALARI İÇİN İLETİŞİME GEÇİNİZ
+!!! DATA DOSYALARI EKSİK. DOSYALARIN TAMAMI İÇİN İLETİŞİME GEÇİNİZ
 ```
