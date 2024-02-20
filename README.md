@@ -86,3 +86,7 @@ pip install -r requirements.txt
 - https://github.com/mewebstudio
 - https://github.com/berkmkaracayir
 - https://github.com/Ozdg
+
+```
+DATA DOSYALARI İÇİN İLETİŞİME GEÇİNİZ
+```
