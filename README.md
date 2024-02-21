@@ -7,7 +7,7 @@
 ## Sorumlu Öğretim Üyesi
 - [Prof. Dr. Hasan Erdinç KOÇER](http://https://www.selcuk.edu.tr/Person/Detail/ekocer)
 
-## Geliştirenler
+## Geliştiren
 - [Ahmet Mert KARAKOÇOĞLU - 203312049](https://www.linkedin.com/in/ahmedovic/)
 
 ## Altyapı
